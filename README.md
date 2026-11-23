@@ -1,5 +1,7 @@
 # Lightpanda 速查表 | Lightpanda Cheatsheet | Guía rápida de Lightpanda
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Lightpanda：从零写起的无头浏览器，专为 AI agent 与自动化而生——不是 Chromium 分叉、也不是 WebKit 修补，Zig 编写；官方基准里内存约省 16 倍、跑完同一批页面约快 9 倍。会说 CDP、WebDriver BiDi、MCP 三种「语言」，手头现成的 Puppeteer/Playwright 脚本多半改个连接地址就能跑。
 
 - 上游项目：[lightpanda-io/browser](https://github.com/lightpanda-io/browser)（2026-10-31 实测 39,147 ★ / 1,905 forks，25 个 release，AGPL-3.0；官网 lightpanda.io）
